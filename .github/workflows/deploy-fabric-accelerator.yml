@@ -6,14 +6,14 @@ env:
   FABRIC_CAPACITY_SKU: F4
   FABRIC_CAPACITY_ADMIN_ID: f8a22170-1478-4c54-9543-d76bdada2e80
   RESOURCE_GROUP: edward-test-resource-group
-  WORKSPACE_NAME: FabricAccelerator
-  WORKSPACE_ADMIN_ID: 688ad7c8-d7bb-4f32-884a-05601c9762a2
+  WORKSPACE_NAME: wwi-workspace
+  WORKSPACE_ADMIN_ID: 48272a8c-0f90-4975-8563-4537e6eac3d6
   WORKSPACE_ADMIN_TYPE: user # valid values: user, group
   FABRIC_SQL_DB_NAME: controldb-fabric-accelerator
   BRONZE_LH: bronze_fabric_accelerator
   SILVER_LH: silver_fabric_accelerator
   GOLD_DW: gold_fabric_accelerator
-  WIDE_WORLD_IMPORTERS_CONNECTION_ID: a0a57e51-5032-4e46-b0f0-493c9d2f51c9
+  WIDE_WORLD_IMPORTERS_CONNECTION_ID: 216a4ff1-7551-406e-8b94-8273adb807d6
 
 jobs:
   deploy-fabric-accelerator:
