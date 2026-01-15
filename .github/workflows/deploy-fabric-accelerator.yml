@@ -7,7 +7,7 @@ env:
   FABRIC_CAPACITY_ADMIN_ID: 48272a8c-0f90-4975-8563-4537e6eac3d6
   RESOURCE_GROUP: edward-test-resource-group
   WORKSPACE_NAME: wwi-workspace
-  WORKSPACE_ADMIN_ID: 48272a8c-0f90-4975-8563-4537e6eac3d6
+  WORKSPACE_ADMIN_ID: 946109cf-6b7f-44de-be01-f17e709871d5
   WORKSPACE_ADMIN_TYPE: user # valid values: user, group
   FABRIC_SQL_DB_NAME: controldb-fabric-accelerator
   BRONZE_LH: bronze_fabric_accelerator
