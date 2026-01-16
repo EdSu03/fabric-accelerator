@@ -4,10 +4,10 @@ env:
   FABRIC_CAPACITY_NAME: trialcapacity
   FABRIC_CAPACITY_LOCATION: uksouth
   FABRIC_CAPACITY_SKU: F4
-  FABRIC_CAPACITY_ADMIN_ID: 2716d4d2-846d-44c1-ac89-e832e8165aa1
+  FABRIC_CAPACITY_ADMIN_ID: cca51807-ed88-4851-97c8-58edbefa0e74
   RESOURCE_GROUP: edward-test-resource-group
   WORKSPACE_NAME: wwi-workspace
-  WORKSPACE_ADMIN_ID: 2716d4d2-846d-44c1-ac89-e832e8165aa1
+  WORKSPACE_ADMIN_ID: cca51807-ed88-4851-97c8-58edbefa0e74
   WORKSPACE_ADMIN_TYPE: user # valid values: user, group
   FABRIC_SQL_DB_NAME: controldb-fabric-accelerator
   BRONZE_LH: bronze_fabric_accelerator
